@@ -14,3 +14,28 @@
     border-radius: 0rem;
     color: brown;
 }
+
+
+/* mouse over link */
+
+a:hover {
+    color: rgb(31, 134, 21);
+}
+
+a:link {
+    text-decoration: none;
+    color: rgb(206, 212, 206);
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(27, 221, 59);
+}
+
+a:active {
+    text-decoration: none;
+}
