@@ -1,0 +1,16 @@
+.footer {
+    background-color: rgb(81, 255, 0);
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: rgb(139, 245, 19);
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.btn {
+    border-radius: 0rem;
+    color: brown;
+}
